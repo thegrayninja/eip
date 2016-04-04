@@ -1,7 +1,8 @@
-#### EIP - External IP Detector - v1.0 ####
+#### EIP - External IP Detector - v1.1 ####
 
 #tool created to automate process of identifying active IP Addresses
 #validates against both ip address and webhosts
+#too lazy to condense the code XD
 
 
 #START OF TOOL#
