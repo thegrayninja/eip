@@ -1,7 +1,9 @@
 #### EIP - External IP Detector - v1.1 ####
+#created by thegrayninja
 
 #tool created to automate process of identifying active IP Addresses
 #validates against both ip address and webhosts
+#full paths are used as I have crontab running daily
 #too lazy to condense the code XD
 
 
